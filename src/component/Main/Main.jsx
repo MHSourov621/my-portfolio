@@ -2,6 +2,7 @@ import { Typewriter } from 'react-simple-typewriter';
 import myImg from '../../assets/sourov10mb-removebg.png';
 import "@lottiefiles/lottie-player";
 import React, { useRef } from 'react';
+import Projects from '../Projects/Projects';
 
 const Main = () => {
     const ref = useRef(null);
@@ -177,8 +178,11 @@ const Main = () => {
 
                         <div id='projects'>
                             <div className='text-center mt-40 '>
-                                <h2 className='text-4xl font-section text-blue-300 inline px-8 pb-4 rounded-lg border-blue-400 border-b-4'>My Projects</h2>
+                                <h2 className='text-4xl font-section text-blue-300 inline px-8 pb-4 rounded-lg border-blue-400 border-b-4'>Portfolio</h2>
                                 <p className='md:text-5xl text-3xl font-bold mt-12 '>What I Do for My Clients</p>
+                            </div>
+                            <div className='lg:w-[1200px] mx-auto mt-16'>
+                                <Projects></Projects>
                             </div>
                         </div>
 

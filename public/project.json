@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "name" : "Musical Camp",
+        "image" : "https://i.ibb.co/0Mn98GS/musical-camp.png",
+        "live" : "https://musical-camp.web.app/",
+        "client" : "https://github.com/MHSourov621/Musical-Camp",
+        "server" : "https://github.com/MHSourov621/musical-camp-server",
+        "details" : [
+            "User authentication by Email password, Google. Only logged in users can see product details.",
+            "Image hosting on imgbb.com and Payment method implement.",
+            "Admin dashboard,instructor dashboard and user dashboard."
+        ],
+        "technology" : "MERN-Stack"
+    },
+    {
+        "id" : 2,
+        "name" : "Our Heros",
+        "image" : "https://i.ibb.co/gSF3m7V/our-heros.png",
+        "live" : "https://our-heros-auth.web.app/",
+        "client" : "https://github.com/MHSourov621/our-heros-client",
+        "server" : "https://github.com/MHSourov621/our-heros-server",
+        "details" : [
+            "This website offers a wide variety of toys to choose from, including action figures, dolls, and more. Have a user-friendly search system that allows users to find the toys they are looking for quickly",
+            "When an admin user is logged in this admin can add a toy, update a toy or delete a toy.",
+            "If a user searches the wrong route, they can find a 404 page. User authentication by Email password, Google. Only logged in users can see product details."
+        ],
+        "technology" : "MERN-Stack"
+    },
+    {
+        "id" : 3,
+        "name" : "Kitchen Secret",
+        "image" : "https://i.ibb.co/Lk4QJ7Z/kitchen.png",
+        "live" : "https://kitchen-auth-add72.web.app/",
+        "client" : "https://github.com/MHSourov621/kitchen-secret-client",
+        "server" : "https://github.com/MHSourov621/kitchen-secret-server",
+        "details" : [
+            "Developed and maintained a large recipe database. Every user can find their favorite individual chefs recipe.",
+            "Interactive Cooking Steps: Enhance user experience with step-by-step instructions, visuals, and timers,ensuring intuitive and successful execution of recipes.",
+            "User authentication by Email password, Google andGithub. Only logged in users can see the recipes."
+        ],
+        "technology" : "MERN-Stack"
+    }
+]
