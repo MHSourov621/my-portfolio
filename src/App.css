@@ -1,0 +1,9 @@
+.project-image{
+    width: 350px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.project-image::-webkit-scrollbar{
+    display: none;
+}
